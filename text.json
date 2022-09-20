@@ -1,0 +1,7 @@
+[
+
+    {"nombre":"sido", "clase":"DAM2", "edad":26 , "comentario":"prueba inicial de AJAX"} , 
+    {"nombre":"ismael", "clase":"DAM1", "edad":22 , "comentario":"prueba inicial de AJAX2"} ,
+    {"nombre":"javier", "clase":"DAw2", "edad":18 , "comentario":"prueba inicial de AJAX3"} ,
+    {"nombre":"paco", "clase":"DAw1", "edad":19 , "comentario":"prueba inicial de AJAX4"} 
+]
